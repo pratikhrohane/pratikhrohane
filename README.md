@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studied Mechanical Engineering 
-- 💼 &nbsp; Working as a Robotics Intern
+- 💼 &nbsp; Working as a Robotics Aspirant
 - 🌱 &nbsp; Learning more about Robot Development
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

@@ -13,13 +13,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - ⚙️ &nbsp;
   ![Robot Operating System](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-<br/>
 
-<a href="https://github.com/pratikhrohane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikhrohane&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -28,3 +22,12 @@
 <a href="https://www.instagram.com/mr__robbie__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr__robbie__-blue?style=flat-square&logo=instagram"></a>
 <a href="rohanepratik@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rohanepratik@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<br/>
+
+<a href="https://github.com/pratikhrohane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikhrohane&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+

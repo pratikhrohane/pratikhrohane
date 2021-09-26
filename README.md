@@ -14,6 +14,7 @@
   ![Python](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 - ⚙️ &nbsp;
   ![Robot Operating System](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS)
+  ![Gazebo](https://img.shields.io/badge/-Gazebo-333333?style=flat&logo=Gazebo)
 
 
 <h3> 🤝 &nbsp;Connect with Me </h3>

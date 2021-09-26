@@ -15,7 +15,7 @@
 - ⚙️ &nbsp;
   ![Robot Operating System](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS)
 - 🖥 &nbsp;
-  ![Fusion360](https://img.shields.io/badge/-Fusion360-333333?style=flat&logo=adobe-Fusion360)
+  ![Fusion360](https://img.shields.io/badge/-Fusion360-333333?style=flat&logo=Fusion360)
 
 <h3> 🤝 &nbsp;Connect with Me </h3>
 

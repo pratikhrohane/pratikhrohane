@@ -13,18 +13,10 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - ⚙️ &nbsp;
-  ![ROS](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Fusion360](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Gazebo](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Rviz](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
+  ![Robot Operating System](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 <br/>
 
 <a href="https://github.com/pratikhrohane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikhrohane&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikhrohane&theme=buefy&layout=compact" />
 </a>
 

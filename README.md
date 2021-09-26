@@ -12,7 +12,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - ⚙️ &nbsp;
-  ![Robot Operating System](https://img.shields.io/badge/-ROS-333333?style=flat&logo=git)
+  ![Robot Operating System](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS)
 
 
 <h3> 🤝 &nbsp;Connect with Me </h3>

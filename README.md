@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new Technologies and developing Robtics stuff
 - 🎓 &nbsp; Studied Mechanical Engineering 
 - 💼 &nbsp; Working as a Robotics Intern
 - 🌱 &nbsp; Learning more about Robot Development

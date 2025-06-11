@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Pratik Rohane
 
-🚀 Robotics Engineer | 🤖 Embedded Systems Developer | 🧠 AI & SLAM Enthusiast
+## 🚀 Robotics Engineer | ⚙️ Mechanical Engineer | 🧠 Control Systems
 
-I'm a passionate Robotics Engineer with over 4 years of experience in designing and developing robotic systems. My expertise lies in hardware-software integration, control systems, and real-time simulations. I thrive on building innovative solutions that bridge the gap between mechanical design and intelligent software.
+💼 4+ years of diverse experience, including 3.5 years in robotics startups  
+🤖 Passionate about building autonomous systems that solve real-world problems  
+🛠️ Capable of delivering end-to-end solutions — from mechanical design to full-stack robotics software  
 
 ---
 
